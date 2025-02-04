@@ -1,0 +1,5 @@
+# ninja log v5
+0	14	0	/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/android/app/.cxx/Debug/2s1l6v4b/x86_64/CMakeFiles/cmake.verify_globs	f38ff97d00be64b1
+0	1321	1738688771257288505	CMakeFiles/appmodules.dir/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	164357d708613a5c
+0	1445	1738688771380622877	CMakeFiles/appmodules.dir/OnLoad.cpp.o	a111f483c8e6dcd3
+1445	1547	1738688771482746934	/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/android/app/build/intermediates/cxx/Debug/2s1l6v4b/obj/x86_64/libappmodules.so	4fd3b87307132714

@@ -1,0 +1,1 @@
+/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/android/app/build/intermediates/cxx/Debug/2s1l6v4b/obj/x86_64
