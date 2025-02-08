@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Smile Dental Clinic",
+    "address": "Gandhipuram",
+    "zipCode":"641062",
+    "city": "Coimbatore",
+    "lat": 40.712776,
+    "lng": -74.005974,
+    "services": ["Braces", "Teeth Cleaning", "Root Canal"]
+  },
+  {
+    "id": 2,
+    "name": "Bright Smiles Dentistry",
+    "address": "Ramanathapuram",
+    "zipCode":"641011",
+    "city": "Madurai",
+    "lat": 40.713776,
+    "lng": -74.002974,
+    "services": ["Teeth Whitening", "Dental Implants", "Fillings"]
+  }
+]

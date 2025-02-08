@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Teeth Cleaning",
+      "description": "Routine dental cleaning to remove plaque and tartar.",
+      "price": 50
+    },
+    {
+      "id": 2,
+      "name": "Teeth Whitening",
+      "description": "Brighten your smile with professional teeth whitening.",
+      "price": 120
+    },
+    {
+      "id": 3,
+      "name": "Emergency Dental Care",
+      "description": "Immediate treatment for dental pain or injury.",
+      "price": 200
+    }
+  ]
+  
