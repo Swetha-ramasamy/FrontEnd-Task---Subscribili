@@ -48,6 +48,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/android/app/.cxx/Debug/2s1l6v4b/arm64-v8a/rnreanimated_autolinked_build/cmake_install.cmake")
   include("/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/android/app/.cxx/Debug/2s1l6v4b/arm64-v8a/safeareacontext_autolinked_build/cmake_install.cmake")
   include("/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/android/app/.cxx/Debug/2s1l6v4b/arm64-v8a/rnscreens_autolinked_build/cmake_install.cmake")
+  include("/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/android/app/.cxx/Debug/2s1l6v4b/arm64-v8a/RNVectorIconsSpec_autolinked_build/cmake_install.cmake")
 
 endif()
 

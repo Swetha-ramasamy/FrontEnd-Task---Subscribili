@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Alice Smith",
+      "specialization": "Orthodontist",
+      "experience": "10 years",
+      "services": ["Braces", "Teeth Alignment"]
+    },
+    {
+      "id": 2,
+      "name": "Dr. John Doe",
+      "specialization": "Pediatric Dentist",
+      "experience": "8 years",
+      "services": ["Teeth Cleaning", "Cavity Filling"]
+    },
+    {
+      "id": 3,
+      "name": "Dr. Emily Johnson",
+      "specialization": "Endodontist",
+      "experience": "12 years",
+      "services": ["Root Canal", "Teeth Cleaning"]
+    }
+  ]
+  

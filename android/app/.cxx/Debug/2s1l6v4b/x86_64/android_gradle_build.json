@@ -4,6 +4,7 @@
     "/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
     "/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
     "/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+    "/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt",
     "/Users/swetharamasamy/Documents/programs/ReactNative/dentalapp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
@@ -33,6 +34,11 @@
         "/Users/swetharamasamy/.gradle/caches/8.10.2/transforms/ffe8bc820e361c19e57c6796da86db29/transformed/react-android-0.77.0-debug/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
         "/Users/swetharamasamy/.gradle/caches/8.10.2/transforms/ffe8bc820e361c19e57c6796da86db29/transformed/react-android-0.77.0-debug/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so"
       ]
+    },
+    "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_RNVectorIconsSpec"
     },
     "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec": {
       "toolchain": "toolchain",

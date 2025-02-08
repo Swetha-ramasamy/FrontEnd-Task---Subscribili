@@ -1,18 +1,18 @@
 import React, { useState } from "react";
 import { View, TextInput, FlatList, Text, StyleSheet } from "react-native";
-import DentistList from "../Components/DentistList";
-import dentistsData from "../data/dentists.json";
+import DentistList from "../Components/ClinicList";
+import clinicData from "../data/clinic.json";
 
 const HomeScreen = () => {
   const [searchQuery, setSearchQuery] = useState("");
 
   // Function to filter dentists based on address, zip code, or city
-  const filteredDentists = dentistsData.filter((dentist) => {
+  const filteredDentists = clinicData.filter((clinic) => {
     const query = searchQuery.toLowerCase();
     return (
-      dentist.address.toLowerCase().includes(query) || // Match address
-      dentist.zipCode?.toLowerCase().includes(query) || // Match zip code (optional)
-      dentist.city?.toLowerCase().includes(query) // Match city (optional)
+      clinic.address.toLowerCase().includes(query) || // Match address
+      clinic.zipCode?.toLowerCase().includes(query) || // Match zip code (optional)
+      clinic.city?.toLowerCase().includes(query) // Match city (optional)
     );
   });
 
@@ -25,7 +25,7 @@ const HomeScreen = () => {
         onChangeText={(text) => setSearchQuery(text)}
       />
 
-      <DentistList dentists={filteredDentists} />
+      <DentistList Clinics={filteredDentists} />
     </View>
   );
 };
